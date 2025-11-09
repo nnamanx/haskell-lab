@@ -13,6 +13,8 @@ Phase 1: Setup & the basics
 - Install Haskell
 - Write very simple programs: functions, recursion, lists, pattern matching.
 - Use an interactive REPL (GHCi) to experiment.
+
+
 Phase 2: Core functional programming in Haskell
 
 - Understand immutability, first-class functions, higher-order functions, type inference.
